@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 - Proficient in **C++**, **SQL**, **Python**, **Machine Leaning**, **Deep Learning**, **Computer Vision**, .
 - Strong in **problem-solving**.
 
+- [![My Skills](https://skillicons.dev/icons?i=cpp,py,git,github,ubuntu,mysql,opencv,sklearn,tensorflow,)](https://skillicons.dev)
+
 **Contact Information**:
 - You can reach me through my github **https://github.com/sahilk12nayak** or via LinkedIn **https://www.linkedin.com/in/sahil-nayak-503351234/**.
