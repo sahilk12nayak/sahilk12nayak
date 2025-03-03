@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Worked at **Outlier** as a Prompt Engineer and completed a **quantitative finance internship** at **Futures First**.
 
 **Current Focus**:
-- Actively seeking a **software engineer**, or **Data Scientist/Data Analyst** position.
+- Actively seeking a **Software engineer**, or **Data Scientist/Data Analyst** position.
 
 **Key Skills**:
 - Proficient in **C++**, **SQL**, **Python**, **Machine Leaning**, **Deep Learning**, **Computer Vision**, .
