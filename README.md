@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - Actively seeking a **Software engineer**, or **Data Scientist/Data Analyst** position.
 
-- Proficient in **C++**, **SQL**, **Python**, **Machine Leaning**, **Deep Learning**, **Computer Vision**, .
+- Proficient in **C++**, **SQL**, **Python**, **Machine Leaning**, **Deep Learning**, **Computer Vision**.
 - Strong in **problem-solving**.
 
 - [![My Skills](https://skillicons.dev/icons?i=cpp,py,git,github,ubuntu,mysql,opencv,sklearn,tensorflow,)](https://skillicons.dev)
