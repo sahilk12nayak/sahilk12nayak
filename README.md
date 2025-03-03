@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I am Sahil, a graduate of **IIT Roorkee**, where I earned a degree in **Chemical Engineering**.
 
 **Internship Experience**:
-- Completed a **quantitative finance internship** at **Futures First**, and worked at **Outlier** as a Prompt Engineer.
+- Worked at **Outlier** as a Prompt Engineer and completed a **quantitative finance internship** at **Futures First**.
 
 **Current Focus**:
 - Actively seeking a **software development position**, or **Data Scientist/Data Analyst** position.
