@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - Strong in **problem-solving**.
 
 **Contact Information**:
-- You can reach me through my **https://github.com/sahilk12nayak** or via email at **https://www.linkedin.com/in/sahil-nayak-503351234/**.
+- You can reach me through my github **https://github.com/sahilk12nayak** or via LinkedIn **https://www.linkedin.com/in/sahil-nayak-503351234/**.
