@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 - [![My Skills](https://skillicons.dev/icons?i=cpp,py,git,github,ubuntu,mysql,opencv,sklearn,tensorflow,)](https://skillicons.dev)
 
-- You can reach me through my github **https://github.com/sahilk12nayak** or via LinkedIn **https://www.linkedin.com/in/sahil-nayak-503351234/**.
+- LinkedIn **https://www.linkedin.com/in/sahil-nayak-503351234/**.
